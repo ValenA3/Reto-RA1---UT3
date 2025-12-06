@@ -1,5 +1,19 @@
 # Reto 03 — Elementos internos de un sistema informático (UT2 · RA1)
+**Alumno/a:** Apellido1 Apellido2, Nombre  <br>
+**Grupo:** 1ºASIR  <br>
+**Fecha:**  06/12/2025 <br>
+**Repositorio:** https://github.com/ValenA3/Reto-RA1---UT3.git 
 
+1. [Portada](00-portada.md)
+2. [Introducción](02-introduccion.md)
+3. [Parte 1 — Fuentes y Refrigeración (A+B)](10-parte1_fuentes_y_refrigeracion/tu_parte1.md)
+4. [Parte 2 — Componentes](retos/Reto_03_Elementos_Internos_SI/docs/20-parte2_TBD/parte2_componentes.md)
+5. [Parte 3 — GPUs BlackFriday](retos/Reto_03_Elementos_Internos_SI/docs/30-parte3_TBD/parte3_gpus_blackfriday.md)
+6. [Entrega y checklist](99-entrega_y_checklist.md)
+
+En este reto nos centramos en **elementos internos** clave: alimentación y refrigeración.
+- **Fuentes de alimentación:** formatos (ATX, SFX, TFX), eficiencia 80 PLUS, modularidad, PFC y dimensiones.
+- **Refrigeración de CPU:** contraste entre soluciones **líquidas AIO** y **pasivas** para una **misma CPU**, evaluando eficiencia, ruido y coste.
 
 ## Parte 1 — Actividades A y B
 
