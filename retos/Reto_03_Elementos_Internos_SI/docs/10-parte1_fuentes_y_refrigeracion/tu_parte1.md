@@ -58,4 +58,23 @@ Chieftec Smart 300W (TFX): Pensada para equipos ultracompactos donde la eficienc
 ---
 
 ## Actividad B — Refrigeración para la MISMA CPU (Líquida vs Pasiva)
-[Completar tabla comparativa, análisis por perfil y conclusión.]
+**Instrucciones:**
+1. Elige una **CPU concreta** (ej.: Intel Core i9-13900, AMD Ryzen 9 7950X…). Indícala abajo.
+2. Selecciona **una refrigeración líquida AIO** y **una refrigeración pasiva** **compatibles** con esa CPU. Incluye **URLs** oficiales o de tienda.
+3. Compara **precio, eficiencia térmica (TDP soportado/temperaturas), ruido, dimensiones, compatibilidad de socket, mantenimiento, garantía**…
+4. **Concluye** con recomendaciones por perfil (**gamer**, **diseño/pro**, **usuario estándar**) y **calidad-precio**.
+
+**CPU elegida:** Procesador AMD Ryzen 7 5700G 4.6GHz
+
+### Modelos evaluados
+| Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
+|------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
+| Líquida (AIO) | Arctic Liquid Freezer III Pro 360 | 86,99 | Alto, apto para CPU potentes / CPU de alto rendimiento | 40 dBA a velocidad normal  | Radiador: 398 × 120 × 38 mm; tubo 450 mm; bloque CPU 105,5 × 68,5 × 91 mm | Intel: LGA1700 / LGA1851; AMD: AM5, AM4 | Requiere mantenimiento ocasional para el radiador y polvo de ventiladores | 6 años | https://www.idealo.es/precios/206182027/arctic-liquid-freezer-iii-pro-360.html?gclid=EAIaIQobChMIh4vMoLjqkAMVAH9BAh1Xdx-tEAQYASABEgIO__D_BwE&utm_campaign=SEM-ES-WEB-CVR-SHOPPING-22719101037&utm_medium=cpc&utm_source=google#test |
+| Pasiva | Noctua NH-P1 | 119,90 | TDP moderado: hasta 95 W usando convección natural | 0 dBA (sin ventilador) | 154 × 152 × 158 mm | Intel: LGA1700, LGA1200, LGA115x, LGA2066, LGA2011-0/3; AMD: AM5, AM4, AM2/AM3 | Casi cero mantenimiento sin ventiladores, sólo limpieza de polvo | 6 años | https://www.idealo.es/precios/206182027/arctic-liquid-freezer-iii-pro-360.html?gclid=EAIaIQobChMIh4vMoLjqkAMVAH9BAh1Xdx-tEAQYASABEgIO__D_BwE&utm_campaign=SEM-ES-WEB-CVR-SHOPPING-22719101037&utm_medium=cpc&utm_source=google#test |
+### Análisis y elección por perfil
+- **Gamer:** recomendable ARCTIC Liquid Freezer III Pro 360 porque ofrece la mejor refrigeración bajo carga intensa, ideal para sesiones largas de juego o uso de GPU potente.
+- **Profesional de diseño/simulación:**  ARCTIC Liquid Freezer III Pro 360 porque mantiene el CPU fresco y estable durante tareas largas y exigentes.
+- **Usuario estándar/ofimática:** recomendable Noctua NH-P1 porque es suficiente para tareas básicas, sin ruido, sin mantenimiento, ideal para uso tranquilo y diario.
+
+### Conclusión general
+Para el AMD Ryzen 7 5700G, ambas soluciones de refrigeración son compatibles y válidas, pero están pensadas para perfiles distintos. La refrigeración líquida AIO ofrece el mejor control térmico y mayor margen de rendimiento para gaming y uso profesional intensivo, a costa de más ruido y algo de mantenimiento. En cambio, la refrigeración pasiva destaca por su silencio absoluto, simplicidad y bajo mantenimiento, siendo suficiente para un usuario estándar con cargas moderadas. En resumen, la elección depende de si se prioriza rendimiento y versatilidad o silencio y comodidad.
