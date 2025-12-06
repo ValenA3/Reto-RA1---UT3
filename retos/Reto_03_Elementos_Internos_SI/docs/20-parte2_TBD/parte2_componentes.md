@@ -31,7 +31,26 @@ Justificación: Gran rendimiento en juegos, buena relación calidad/precio. <br>
 
 ## Tabla RAM: DDR4 vs DDR5
 | Caracteristicas | DDR4 | DDR5 |
+|-----------------|------|------|
 | Velocidad | 2133–3600 MHz | 4800–8000+ MHz |
 | Consumo | ~1.2V | ~1.1V | 
 | Precio | Más barata | Más cara |
 | Compatibilidad | Placas DDR4 | Placas DDR5 |
+
+## Investigación DDR5
+### Ventajas de DDR5 frente a DDR4
+Mayor velocidad: DDR5 parte desde 4800 MHz y supera con facilidad los 6000–8000 MHz, frente a los 2133–3600 MHz habituales de DDR4. <br>
+Mayor ancho de banda: Permite transferir más datos por segundo, mejorando tareas intensivas. <br> 
+Menor consumo: DDR5 funciona a ~1.1V, reduciendo el uso energético. <br>
+Mayor capacidad por módulo: DDR5 permite módulos de 32–128 GB con mayor facilidad. <br>
+Mejor eficiencia interna: Incluye PMIC integrado y subcanales independientes que optimizan el rendimiento. <br>
+
+### En qué usos se nota más DDR5
+Gaming de alta gama, especialmente con GPUs modernas (RTX 4000/5000, Radeon 7000) que aprovechan mejor el ancho de banda. <br>
+Edición de vídeo 4K/8K, renderizado y creación de contenido. <br> 
+Trabajo con máquinas virtuales, ingeniería, simulación y compilación de proyectos grandes. <br>
+Aplicaciones de IA, modelos locales y cargas paralelas. <br>
+
+### Ejemplo concreto
+Edición de vídeo: Un PC con un Ryzen 5 7600X y RAM DDR4 renderizaría proyectos 4K más lento debido al menor ancho de banda. Con DDR5 6000MHz, se obtienen mejoras en tiempos de exportación y una línea de tiempo más fluida cuando se utilizan múltiples efectos y capas.
+
