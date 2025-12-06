@@ -35,8 +35,7 @@ La be quiet! TFX Power 3 300W es muy eficiente para PCs ultracompactos.
 ### Tienda 3: Alternate ES
 | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (L×W×H mm) | Enlace |
 |------|---------------|--------------|---------|-----------:|------------|-----|------------------------|--------|
-| ATX  | Inter-Tech Argus APS-720 | 720W | NO | 40,79€ | NO | SI | Ancho: 150 mm x Altura: 86 mm x Profundidad/longitud: 140 mm
- | https://www.alternate.es/Inter-Tech/Argus-APS-720-720W-Fuente-de-alimentaci%C3%B3n-de-PC/html/product/1857471 |
+| ATX  | Inter-Tech Argus APS-720 | 720W | NO | 40,79€ | NO | SI | Ancho: 150 mm x Altura: 86 mm x Profundidad/longitud: 140 mm | https://www.alternate.es/Inter-Tech/Argus-APS-720-720W-Fuente-de-alimentaci%C3%B3n-dePC/html/product/1857471|
 | SFX  | Chieftec SFX-250VS | 250W | NO | 44,79€ | NO | SI | Ancho: 125 mm x Altura: 64 mm x Profundidad/longitud: 100 mm | https://www.alternate.es/Chieftec/SFX-250VS-unidad-de-fuente-de-alimentaci%C3%B3n-250-W-20plus4-pin-ATX-Plata-Fuente-de-alimentaci%C3%B3n-de-PC/html/product/1270519 |
 | TFX  | Chieftec Smart | 300W | SI | 44,79€ | NO | SI | Ancho: 85 mm x Altura: 65 mm x Profundidad/longitud: 175 mm | https://www.alternate.es/Chieftec/Smart-300W-unidad-de-fuente-de-alimentaci%C3%B3n-20plus4-pin-ATX-TFX-Gris-Fuente-de-alimentaci%C3%B3n-de-PC/html/product/1641622 |
 
