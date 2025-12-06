@@ -24,21 +24,21 @@ RTX 5050 (8 GB) - 01:58 <br>
 5090 (32 GB, GDDR7) - 14:18 <br>
 5080 (16 GB) - 14:46 <br>
 
-## 2.2 Dos tramos obligatorios:
-### ~350 €: minuto de inicio/fin + 2 GPUs principales.
-Min inicio: 7:41
-Min fin: 8:55
-2 GPUs principales: 
-9060 XT (16 GB): Precio aproximado: 350 €, recomendada para juegos a 1440p gracias a su gran memoria y buen rendimiento.
-5060 Ti (8 GB): Precio entre 360 ​​€ y 370 €, aunque es menos atractiva; no se recomienda por su menor potencia, especialmente para un presupuesto de unos 300 €.
-### 600–800 €: minuto de inicio/fin + 2 GPUs principales.
-Min inicio: 11:43
-Min fin: 13:38
-2 GPUs principales: 
-9070 XT (16 GB): Una excelente opción para juegos, con un precio inferior a 600 €, que ofrece un buen rendimiento a largo plazo.
-5070 Ti (12 GB): Con un precio de alrededor de 780 €, es mejor para el trazado de rayos e incluye tecnologías asociadas con Nvidia, pero a un coste mayor.
-### Modelos repetidos
-La 9060 XT aparece en las dos tramas, enfatizando su valor en el segmento de gama media baja.
+## 2.2 Dos tramos obligatorios:<br>
+### ~350 €: minuto de inicio/fin + 2 GPUs principales.<br>
+Min inicio: 7:41<br>
+Min fin: 8:55<br>
+2 GPUs principales: <br>
+9060 XT (16 GB): Precio aproximado: 350 €, recomendada para juegos a 1440p gracias a su gran memoria y buen rendimiento.<br>
+5060 Ti (8 GB): Precio entre 360 ​​€ y 370 €, aunque es menos atractiva; no se recomienda por su menor potencia, especialmente para un presupuesto de unos 300 €.<br>
+### 600–800 €: minuto de inicio/fin + 2 GPUs principales.<br>
+Min inicio: 11:43<br>
+Min fin: 13:38<br>
+2 GPUs principales: <br>
+9070 XT (16 GB): Una excelente opción para juegos, con un precio inferior a 600 €, que ofrece un buen rendimiento a largo plazo.<br>
+5070 Ti (12 GB): Con un precio de alrededor de 780 €, es mejor para el trazado de rayos e incluye tecnologías asociadas con Nvidia, pero a un coste mayor.<br>
+### Modelos repetidos<br>
+La 9060 XT aparece en las dos tramas, enfatizando su valor en el segmento de gama media baja.<br>
 ## 2.3 Búsqueda en tiendas
 | GPU | Tienda | Precio actual |
 |-----|--------|---------------|
