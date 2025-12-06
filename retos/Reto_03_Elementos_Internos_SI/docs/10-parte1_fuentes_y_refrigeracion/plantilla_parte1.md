@@ -49,8 +49,15 @@ Chieftec Smart 300W (TFX): Pensada para equipos ultracompactos donde la eficienc
 #### Tabla **resumen comparativa** (global, 9 modelos)
 | Tienda | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (mm) | Observaciones |
 |--------|------|---------------|--------------|---------|-----------:|------------|-----|------------------|---------------|
-|        |      |               |              |         |            |            |     |                  |               |
-
+|PcComponentes| ATX |Mars Gaming MPB550SI|550|Bronze|31,94|No modular| Activo |150 × 145 × 85 |Muy barata, eficiencia básica |
+| PcComponentes | SFX  | UNYKAch 300W | 300 | Bronze  | 35,95 | No modular| Activo | 125 × 100 × 65| Compacta, para PCs pequeños |
+| PcComponentes | TFX  | Tacens Anima APII500| 500| No | 22,64 | No modular | No | 150 × 85 × 65 | Muy económica, menor calidad |
+| Amazon ES     | ATX  | Corsair CX650| 650| Sí| 59,95| No modular  | Activo | 125 × 150 × 86   | Fiable y potente, buena marca  |
+| Amazon ES     | SFX  | Sharkoon SilentStorm SFX 450W| 450 | Sí| 66,66| No modular | Semi-pasivo| 125 × 100 × 63 | Silenciosa y compacta |
+| Amazon ES     | TFX  | be quiet! TFX Power 3 300W| 300 | Gold| 69,99| No modular | Semi-pasivo| 175 × 85 × 65 | Muy eficiente, ideal SFF|
+| Alternate ES  | ATX  | Inter-Tech Argus APS-720| 720  | No  | 40,79 | No | Sí | 150 × 86 × 140   | Mucha potencia, baja eficiencia |
+| Alternate ES  | SFX  | Chieftec SFX-250VS| 250 | No | 44,79  | No  | Sí | 125 × 64 × 100 | Muy compacta, potencia limitada |
+| Alternate ES  | TFX  | Chieftec Smart 300W | 300 | Sí  | 44,79  | No | Sí| 85 × 65 × 175| Equilibrada para TFX   |
 ---
 ## Actividad B — **Refrigeración para la MISMA CPU** (Líquida vs Pasiva)
 
@@ -65,13 +72,12 @@ Chieftec Smart 300W (TFX): Pensada para equipos ultracompactos donde la eficienc
 ### Modelos evaluados
 | Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
 |------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
-| Líquida (AIO) | Arctic Liquid Freezer III Pro 360 | 86,99€ |                                     |             |                  |         |              |          | https://www.idealo.es/precios/206182027/arctic-liquid-freezer-iii-pro-360.html?gclid=EAIaIQobChMIh4vMoLjqkAMVAH9BAh1Xdx-tEAQYASABEgIO__D_BwE&utm_campaign=SEM-ES-WEB-CVR-SHOPPING-22719101037&utm_medium=cpc&utm_source=google#test |
-| Pasiva        | Noctua NH‑P1 | 119,90€ |                                     |             |                  |         |               |          | https://www.idealo.es/precios/201454163/noctua-nh-p1.html?gclid=EAIaIQobChMI0ruRlbnqkAMV-wQGAB2Faw22EAQYAiABEgJs6PD_BwE&utm_campaign=SEM-ES-WEB-CVR-SHOPPING-22719104799&utm_medium=cpc&utm_source=google |
-
+| Líquida (AIO) | Arctic Liquid Freezer III Pro 360 | 86,99 | Alto, apto para CPU potentes / CPU de alto rendimiento | 40 dBA a velocidad normal  | Radiador: 398 × 120 × 38 mm; tubo 450 mm; bloque CPU 105,5 × 68,5 × 91 mm | Intel: LGA1700 / LGA1851; AMD: AM5, AM4 | Requiere mantenimiento ocasional para el radiador y polvo de ventiladores | 6 años | https://www.idealo.es/precios/206182027/arctic-liquid-freezer-iii-pro-360.html?gclid=EAIaIQobChMIh4vMoLjqkAMVAH9BAh1Xdx-tEAQYASABEgIO__D_BwE&utm_campaign=SEM-ES-WEB-CVR-SHOPPING-22719101037&utm_medium=cpc&utm_source=google#test |
+| Pasiva | Noctua NH-P1 | 119,90 | TDP moderado: hasta 95 W usando convección natural | 0 dBA (sin ventilador) | 154 × 152 × 158 mm | Intel: LGA1700, LGA1200, LGA115x, LGA2066, LGA2011-0/3; AMD: AM5, AM4, AM2/AM3 | Casi cero mantenimiento sin ventiladores, sólo limpieza de polvo | 6 años | https://www.idealo.es/precios/206182027/arctic-liquid-freezer-iii-pro-360.html?gclid=EAIaIQobChMIh4vMoLjqkAMVAH9BAh1Xdx-tEAQYASABEgIO__D_BwE&utm_campaign=SEM-ES-WEB-CVR-SHOPPING-22719101037&utm_medium=cpc&utm_source=google#test |
 ### Análisis y elección por perfil
-- **Gamer:**  
-- **Profesional de diseño/simulación:**  
-- **Usuario estándar/ofimática:**  
+- **Gamer:** recomendable ARCTIC Liquid Freezer III Pro 360 porque ofrece la mejor refrigeración bajo carga intensa, ideal para sesiones largas de juego o uso de GPU potente.
+- **Profesional de diseño/simulación:**  ARCTIC Liquid Freezer III Pro 360 porque mantiene el CPU fresco y estable durante tareas largas y exigentes.
+- **Usuario estándar/ofimática:** recomendable Noctua NH-P1 porque es suficiente para tareas básicas, sin ruido, sin mantenimiento, ideal para uso tranquilo y diario.
 
 ### Conclusión general
-(Síntesis de hallazgos, relación calidad-precio y adecuación por necesidad/presupuesto)
+Para el AMD Ryzen 7 5700G, ambas soluciones de refrigeración son compatibles y válidas, pero están pensadas para perfiles distintos. La refrigeración líquida AIO ofrece el mejor control térmico y mayor margen de rendimiento para gaming y uso profesional intensivo, a costa de más ruido y algo de mantenimiento. En cambio, la refrigeración pasiva destaca por su silencio absoluto, simplicidad y bajo mantenimiento, siendo suficiente para un usuario estándar con cargas moderadas. En resumen, la elección depende de si se prioriza rendimiento y versatilidad o silencio y comodidad.
